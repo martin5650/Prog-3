@@ -11,6 +11,11 @@ function setup() {
         weath = data;
     })
 
+
+
+
+
+    
     function nkarel(matrix) {
         console.log(matrix);
         for (var y = 0; y < matrix.length; y++) {
